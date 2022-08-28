@@ -20,7 +20,7 @@
 В место int подошел бы тип float, так как он работает с дробными числами
 
 # Скриншот
-    [Ссылка на дефект](https://github.com/Bikokli/resipeTesting/blob/4bdd1a5241a02e6902e20bc3abf29187bb9c763b/src/com/company/Main.java#L10)
+[Ссылка на дефект](https://github.com/Bikokli/resipeTesting/blob/4bdd1a5241a02e6902e20bc3abf29187bb9c763b/src/com/company/Main.java#L10)
    
 # Окружение
 * **Операционная система** Windows 11
